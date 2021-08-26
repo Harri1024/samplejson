@@ -1,5 +1,12 @@
+[
   {
-    "case_id": "1",
-    "title": "SININEN 01.07.2021 15:30",
-    "body": "Tuokaa uusia ruuvarin kärkiä"
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
   }
+]
